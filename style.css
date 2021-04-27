@@ -12,8 +12,8 @@ html{
   top: 36%;
   background-color:#e67e22;
 }
-h1{
-  margin-top: 8px;
+p{
+  margin-top: 7px;
   color: white;
   text-align: center;
   font-size: 200%;
@@ -21,7 +21,7 @@ h1{
   text-transform: uppercase;
   word-spacing: 7px;
   letter-spacing: 3px;
-  margin-bottom: 8px;
+  margin-bottom: 7px;
  
 }
 
