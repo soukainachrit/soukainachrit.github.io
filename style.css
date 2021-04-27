@@ -7,25 +7,22 @@ html{
   font-family:'arial', sans-serif;
   font-size: 20px;
 }
-.row{
-  max-width: 1140px;
-  margin: auto;
+.nom{
+  position:absolute;
+  top: 36%;
+  background-color:#e67e22;
 }
 h1{
-  margin-top: 10px;
+  margin-top: 8px;
   color: white;
+  text-align: center;
   font-size: 200%;
   font-weight: 300;
   text-transform: uppercase;
   word-spacing: 7px;
   letter-spacing: 3px;
-  margin-bottom: 10px;
-  text-align : center:
-}
-.nom{
-  position: absolute;
-  top: 38%;
-  background-color:#e67e22;
+  margin-bottom: 8px;
+ 
 }
 
 .div1{
