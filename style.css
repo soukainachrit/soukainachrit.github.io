@@ -23,8 +23,9 @@ h1{
   text-align : center:
 }
 .nom{
-  top: 50%;
-  background-color :#e67e22
+  position: absolute;
+  top: 35%;
+  background-color :#a15512;
 }
 
 .div1{
