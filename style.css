@@ -7,6 +7,10 @@ html{
   font-family:'arial', sans-serif;
   font-size: 20px;
 }
+.row{
+  max-width: 1140px;
+  margin: auto;
+}
 .nom{
   position:absolute;
   top: 36%;
