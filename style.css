@@ -12,7 +12,7 @@ html{
   margin: auto;
 }
 h1{
-  margin-top: 0;
+  margin-top: 10px;
   color: white;
   font-size: 240%;
   font-weight: 300;
@@ -21,6 +21,9 @@ h1{
   letter-spacing: 1px;
   margin-bottom: 10px;
   text-align : center:
+}
+.nom{
+  background-color :#e67e22
 }
 
 .div1{
