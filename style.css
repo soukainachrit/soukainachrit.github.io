@@ -12,10 +12,9 @@ html{
   top: 36%;
   background-color:#e67e22;
 }
-p{
+p.nom{
   margin-top: 7px;
   color: white;
-  text-align: center;
   font-size: 200%;
   font-weight: 300;
   text-transform: uppercase;
