@@ -28,7 +28,8 @@ html{
   border: 1px solid #e67e22;
   border-radius: 200px;
   background-color:#e67e22;
-  padding: 2px;
+  marjin-bottom: 5px;
+
 }
 h1 {
    color: white;
