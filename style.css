@@ -21,14 +21,14 @@ html{
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%,-50%);  
+  transform: translate(-50%,-50%); 
+  marjin-bottom: 5px;
 }
 .nom{
   border: 1px solid #e67e22;
   border-radius: 200px;
   background-color:#e67e22;
-  padding: 3px;
-  margin-bottom:5px;
+  padding: 2px;
 }
 h1 {
    color: white;
