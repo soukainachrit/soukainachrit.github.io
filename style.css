@@ -62,7 +62,8 @@ h4{
 
 }
 .ex{
-
+display:flex;
+justify-content:space-between;
 margin: auto;
 width: 60%;
   margin-left:10px;
