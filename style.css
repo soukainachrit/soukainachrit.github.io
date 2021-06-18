@@ -62,11 +62,9 @@ h4{
 
 }
 .ex{
-display:flex;
-justify-content:space-between;
-margin: auto;
-width: 60%;
-  margin-left:70px;
+margin-left: 10%;
+margin-right: 10%;
+width: 100%;
 }
 
 .btn:link ,
